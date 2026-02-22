@@ -12,4 +12,4 @@ Software Engineer turned Builder — using AI to push ideas out into the world f
 
 ## Writing
 
-**[Bits & Neurons](https://bitsnneurons.substack.com/)** — Book summaries, production-level optimizations, and paper highlights, with [Srijan Saket](https://github.com/srijansaket).
+**[Bits & Neurons](https://bitsnneurons.substack.com/)** — Book summaries, production-level optimizations, and paper highlights, with [Srijan Saket](https://github.com/srijansk).
