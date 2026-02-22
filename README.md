@@ -1,6 +1,6 @@
 # Hi, I'm Vivek
 
-Building Infra at [Pavo AI](https://pavoai.dev). Go · Python.
+Building Infra at [Pavo AI](https://www.pavoai.com). Go · Python.
 
 Software Engineer turned Builder — using AI to push ideas out into the world faster.
 
