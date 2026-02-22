@@ -8,7 +8,7 @@ Software Engineer turned Builder — using AI to push ideas out into the world f
 
 ## Projects
 
-- 🐝 **[Hive](https://github.com/vchandela/hive)** — A CLI-first retrieval engine with a self-improving feedback loop. Standard search metrics treat misleading results as harmless zeros — Hive uses UDCG, which scores them -1, then runs an LLM agent to detect the damage, fix the search config, and redeploy. Zero human intervention.
+- 🐝 **[Hive](https://github.com/vchandela/hive)** — A CLI-first retrieval engine with a self-improving feedback loop.
 
 ## Writing
 
