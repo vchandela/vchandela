@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vivek
 
-<!--
-**vchandela/vchandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building Infra at [Pavo AI](https://pavoai.dev). Go · Python.
 
-Here are some ideas to get you started:
+Software Engineer turned Builder — using AI to push ideas out into the world faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/vivekchandela) &nbsp;·&nbsp; [Bits & Neurons](https://bitsnneurons.substack.com/)
+
+## Projects
+
+- 🐝 **[Hive](https://github.com/vchandela/hive)** — A CLI-first retrieval engine with a self-improving feedback loop. Standard search metrics treat misleading results as harmless zeros — Hive uses UDCG, which scores them -1, then runs an LLM agent to detect the damage, fix the search config, and redeploy. Zero human intervention.
+
+## Writing
+
+**[Bits & Neurons](https://bitsnneurons.substack.com/)** — Book summaries, production-level optimizations, and paper highlights, with [Srijan Saket](https://github.com/srijansaket).
