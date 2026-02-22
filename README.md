@@ -2,7 +2,7 @@
 
 Software Engineer turned Builder — using AI to push ideas out into the world faster.
 
-Infra @ [Pavo AI](https://www.pavoai.com) · Go · Python.
+Infra @ [Pavo AI](https://www.pavoai.com)
 
 📍 India &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/vivekchandela) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=MlwwtQgAAAAJ) &nbsp;·&nbsp; [Bits & Neurons](https://bitsnneurons.substack.com/)
 
