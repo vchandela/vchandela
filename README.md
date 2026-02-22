@@ -10,6 +10,7 @@ Software Engineer turned Builder — using AI to push ideas out into the world f
 
 - 🐝 **[Hive](https://github.com/vchandela/hive)** — A CLI-first retrieval engine with a self-improving feedback loop.
 
-## Writing
+## Latest Writing
 
-**[Bits & Neurons](https://bitsnneurons.substack.com/)** — Book summaries, production-level optimizations, and paper highlights, with [Srijan Saket](https://github.com/srijansk).
+- [BYOC is not a Helm chart: Threat models and hard lessons](https://bitsnneurons.substack.com/p/byoc-is-not-a-helm-chart-threat-models)
+- [Optimizing Golang Jobs for Cost Efficiency: A Beginner's Guide](https://bitsnneurons.substack.com/p/optimizing-golang-jobs-for-cost-efficiency)
